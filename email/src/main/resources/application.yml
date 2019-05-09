@@ -1,0 +1,25 @@
+server:
+  port: 9000
+
+spring:
+  mail:
+    host: smtp.163.com  
+    username: hnnd122@163.com
+    password: YY2608240
+    properties:  
+          mail:  
+              smtp:  
+              auth: true  
+              starttls:  
+              enable: true  
+              required: true
+
+
+
+
+
+
+
+
+
+
